@@ -56,8 +56,8 @@ This will start a local server. Open a web browser and navigate to `http://127.0
 
 ## License
 
-Specify your license here or indicate if the project is open-source.
+Open-Source under MIT license
 
 ---
 
-For more information on how to use the application or contribute, please refer to the project documentation or contact the project maintainers.
+For more information on how to use the application or contribute, please contact adeetya@purdue.edu
