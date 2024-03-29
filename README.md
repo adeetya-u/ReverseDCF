@@ -54,6 +54,8 @@ python app.py
 
 This will start a local server. Open a web browser and navigate to `http://127.0.0.1:8050/` to view and interact with the application.
 
+It is also currently hosted on [render](https://reversedcf.onrender.com/). Click the link to access a web version of the Dash app.
+
 ## License
 
 Open-Source under MIT license
